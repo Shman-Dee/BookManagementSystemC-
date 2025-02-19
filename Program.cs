@@ -1,2 +1,14 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿namespace BookManagementSystem.Services
+
+{
+    class Program
+    {
+        static void Main()
+        {
+
+            BookManagerService bookManager = new BookManagerService();
+
+            bookManager.DisplayMenu();
+        }
+    }
+}

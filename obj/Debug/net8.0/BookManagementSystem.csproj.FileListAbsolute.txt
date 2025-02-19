@@ -1,0 +1,15 @@
+/Users/andrew.mcinally/c-sharp/BookManagementSystem/BookManagementSystem/bin/Debug/net8.0/BookManagementSystem
+/Users/andrew.mcinally/c-sharp/BookManagementSystem/BookManagementSystem/bin/Debug/net8.0/BookManagementSystem.deps.json
+/Users/andrew.mcinally/c-sharp/BookManagementSystem/BookManagementSystem/bin/Debug/net8.0/BookManagementSystem.runtimeconfig.json
+/Users/andrew.mcinally/c-sharp/BookManagementSystem/BookManagementSystem/bin/Debug/net8.0/BookManagementSystem.dll
+/Users/andrew.mcinally/c-sharp/BookManagementSystem/BookManagementSystem/bin/Debug/net8.0/BookManagementSystem.pdb
+/Users/andrew.mcinally/c-sharp/BookManagementSystem/BookManagementSystem/obj/Debug/net8.0/BookManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrew.mcinally/c-sharp/BookManagementSystem/BookManagementSystem/obj/Debug/net8.0/BookManagementSystem.AssemblyInfoInputs.cache
+/Users/andrew.mcinally/c-sharp/BookManagementSystem/BookManagementSystem/obj/Debug/net8.0/BookManagementSystem.AssemblyInfo.cs
+/Users/andrew.mcinally/c-sharp/BookManagementSystem/BookManagementSystem/obj/Debug/net8.0/BookManagementSystem.csproj.CoreCompileInputs.cache
+/Users/andrew.mcinally/c-sharp/BookManagementSystem/BookManagementSystem/obj/Debug/net8.0/BookManagementSystem.sourcelink.json
+/Users/andrew.mcinally/c-sharp/BookManagementSystem/BookManagementSystem/obj/Debug/net8.0/BookManagementSystem.dll
+/Users/andrew.mcinally/c-sharp/BookManagementSystem/BookManagementSystem/obj/Debug/net8.0/refint/BookManagementSystem.dll
+/Users/andrew.mcinally/c-sharp/BookManagementSystem/BookManagementSystem/obj/Debug/net8.0/BookManagementSystem.pdb
+/Users/andrew.mcinally/c-sharp/BookManagementSystem/BookManagementSystem/obj/Debug/net8.0/BookManagementSystem.genruntimeconfig.cache
+/Users/andrew.mcinally/c-sharp/BookManagementSystem/BookManagementSystem/obj/Debug/net8.0/ref/BookManagementSystem.dll
